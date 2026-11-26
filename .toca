@@ -1,4 +1,6 @@
 {
   "version": 1,
-  "workspaceId": "a7502043-f13a-41dc-8337-205c9d2780dc"
+  "workspaceId": "a7502043-f13a-41dc-8337-205c9d2780dc",
+  "resources": [],
+  "environmentMappings": []
 }
