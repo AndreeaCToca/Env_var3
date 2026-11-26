@@ -1,0 +1,7 @@
+{
+  "datastoreId": "9b3d1e9b-08da-4797-915e-65497038dc2c",
+  "uuid": "01a216ec-6371-725b-b97c-209701e8eaa7",
+  "key": "fileDrive",
+  "type": "FilesLocator",
+  "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}"
+}

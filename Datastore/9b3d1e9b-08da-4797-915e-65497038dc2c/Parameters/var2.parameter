@@ -1,0 +1,8 @@
+{
+  "datastoreId": "9b3d1e9b-08da-4797-915e-65497038dc2c",
+  "uuid": "01a216ee-631e-71c0-8c97-457c163cb503",
+  "key": "var2",
+  "type": "String",
+  "value": "",
+  "isEnvironmentVariable": true
+}

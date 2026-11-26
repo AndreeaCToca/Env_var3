@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "id": "9b3d1e9b-08da-4797-915e-65497038dc2c",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "2.0.0"
+  },
+  "content": {
+    "uuid": "9b3d1e9b-08da-4797-915e-65497038dc2c",
+    "description": "test",
+    "datastoreType": "Internal",
+    "workspaceId": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "resourceId": "9b3d1e9b-08da-4797-915e-65497038dc2c",
+    "name": "datastore"
+  }
+}
