@@ -1,0 +1,7 @@
+{
+  "datastoreId": "9b3d1e9b-08da-4797-915e-65497038dc2c",
+  "uuid": "01a2178d-db85-7137-8138-a36fc00b57e0",
+  "key": "liststash",
+  "type": "Array",
+  "value": "[{\u0022type\u0022:\u0022number\u0022,\u0022key\u0022:\u0022aa77e0ff-e8e4-4a67-81cf-a5bdf7f9b559\u0022,\u0022value\u0022:0},{\u0022type\u0022:\u0022number\u0022,\u0022key\u0022:\u00220cee6ff1-1c46-4658-aeb0-3dd318500ae2\u0022,\u0022value\u0022:2}]"
+}

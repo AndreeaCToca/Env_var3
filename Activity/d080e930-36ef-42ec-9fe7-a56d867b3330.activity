@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "id": "d080e930-36ef-42ec-9fe7-a56d867b3330",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "64d73450-4b99-4cdf-a37d-f0ae22e6cb24",
+    "description": "test",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "resourceId": "d080e930-36ef-42ec-9fe7-a56d867b3330",
+    "name": "activ"
+  }
+}

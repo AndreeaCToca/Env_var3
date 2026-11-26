@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "id": "c92f03d1-4a05-4afd-a8b6-9338cafd2a15",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "pageId": "c92f03d1-4a05-4afd-a8b6-9338cafd2a15",
+    "dashBoardId": "6b0815990d6a8f42fe14be2f",
+    "title": "Home",
+    "layout": {
+      "version": "2",
+      "rootComponentId": "7e33b1bd-37cc-4ec1-a3c0-8b5340622f2e",
+      "components": {
+        "7e33b1bd-37cc-4ec1-a3c0-8b5340622f2e": {
+          "definitionId": "@tocabot/app/page-root",
+          "id": "7e33b1bd-37cc-4ec1-a3c0-8b5340622f2e",
+          "options": {},
+          "slots": {
+            "root": []
+          },
+          "classes": {
+            "root": []
+          }
+        }
+      },
+      "viewports": {
+        "414": [],
+        "768": [],
+        "1280": [],
+        "1440": []
+      }
+    },
+    "parameters": [],
+    "deleted": false,
+    "version": "0.0.0",
+    "workspaceId": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "resourceId": "c92f03d1-4a05-4afd-a8b6-9338cafd2a15",
+    "name": "Home"
+  }
+}

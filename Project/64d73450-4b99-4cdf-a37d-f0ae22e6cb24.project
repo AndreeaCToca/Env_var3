@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "id": "64d73450-4b99-4cdf-a37d-f0ae22e6cb24",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "64d73450-4b99-4cdf-a37d-f0ae22e6cb24",
+    "description": "test",
+    "deactivated": false,
+    "actionGroups": [],
+    "workspaceId": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "resourceId": "64d73450-4b99-4cdf-a37d-f0ae22e6cb24",
+    "name": "autom"
+  }
+}

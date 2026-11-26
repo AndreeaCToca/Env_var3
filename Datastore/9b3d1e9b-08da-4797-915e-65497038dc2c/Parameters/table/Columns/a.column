@@ -1,0 +1,14 @@
+{
+  "key": "a",
+  "after": "updated",
+  "column": {
+    "name": "a",
+    "label": "a",
+    "type": "string",
+    "isPrimaryKey": false,
+    "constraints": {
+      "isUnique": false,
+      "isNotNull": false
+    }
+  }
+}
