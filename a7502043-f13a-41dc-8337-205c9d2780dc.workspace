@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "accent": "#aa1773",
+    "route": "envvar2026",
+    "description": "2026",
+    "cmsEnabled": false,
+    "versioning": true,
+    "workspaceId": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "resourceId": "a7502043-f13a-41dc-8337-205c9d2780dc",
+    "name": "envVar2026"
+  }
+}
