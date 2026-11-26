@@ -1,0 +1,7 @@
+{
+  "datastoreId": "9b3d1e9b-08da-4797-915e-65497038dc2c",
+  "uuid": "01a216f9-aa7e-7210-bdef-96129073da76",
+  "key": "list",
+  "type": "Array",
+  "value": "[{\u0022type\u0022:\u0022number\u0022,\u0022key\u0022:\u002266be03df-535e-4ec2-8a3e-6f70bb940ca8\u0022,\u0022value\u0022:0},{\u0022type\u0022:\u0022number\u0022,\u0022key\u0022:\u00220e270460-3a86-4851-8905-39c32452a3a9\u0022,\u0022value\u0022:1}]"
+}
